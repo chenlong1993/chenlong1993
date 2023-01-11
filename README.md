@@ -1,187 +1,32 @@
-### Hi there I’m daiyu 👋
+<p align="center"><a href="https://clbigdata.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<!--
-**clbigdata/clbigdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a self-taught passionate FullStack developer from China 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@clbigdata 
-all-smile
-/
-all-smile
-Public
-Fork your own copy of all-smile/all-smile
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-all-smile/README.md
-@all-smile
-all-smile Update README.md
-Latest commit 98d21ab on Sep 21, 2022
- History
- 1 contributor
-129 lines (107 sloc)  8.61 KB
+**About me**
 
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
+- 💼 FullStack Engineer 
 
-### _Hi there 👋, I'm Xiao._
+- ❤️ I like to write something interesting in java
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+- 💬 Ask me about anything use 163 email(`clbigdata@163.com`)
 
-[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:clbigdata@163.com)](mailto:find_onepiece@163.com)
-
-- 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://blog.i-xiao.space/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://blog.i-xiao.space/)
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![JAVA](https://img.shields.io/badge/-java-blue?logo=Java&logoColor=029137)](https://blog.i-xiao.space/)
-
-- 💻 I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://blog.i-xiao.space/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
-  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://blog.i-xiao.space/)
-
-- ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://blog.i-xiao.space/)
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://blog.i-xiao.space/)
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://blog.i-xiao.space/)
-
-- 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://blog.i-xiao.space/)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://blog.i-xiao.space/)
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
+| <a href="https://github.com/clbigdata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clbigdata&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/clbigdata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clbigdata&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/clbigdata/count.svg) visitor, Thank You!🎉🎉
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clbigdata&theme=flag-india)](https://github.com/clbigdata/github-readme-stats) -->
+#### Top Repositories
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=145/></span>](https://home.i-xiao.space/blog/)
-
-<!--
-<table border="0">
-<tr>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" alt="Top Langs" height="160" />
-</td>
-<td valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true" alt="all-smile's GitHub stats" height="160" />
-</td>
-</tr>
-</table>
--->
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
--->
-
-### My Skill Set
-<table><tr><td valign="top" width="33%">
+<a href="https://github.com/clbigdata/ShardingMigrate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=ShardingMigrate&theme=buefy" />
+</a>
 
 
-
-#### Frontend
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### Backend
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### DevOps
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-</div>
-</td>
-</tr>
-</table>
-
-<br/>
-<div align="center">
-  <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-all-smile/README.md at master · all-smile/all-smile 
