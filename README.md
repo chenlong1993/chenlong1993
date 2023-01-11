@@ -23,5 +23,11 @@ Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/clbigdata
 <a href="https://github.com/clbigdata/ShardingMigrate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=ShardingMigrate&theme=buefy" />
 </a>
+<a href="https://github.com/clbigdata/daiyu-chat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=daiyu-chat&theme=buefy" />
+</a>
+<a href="https://github.com/clbigdata/daiyu-dfs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=daiyu-dfs&theme=buefy" />
+</a>
 
 
