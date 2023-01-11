@@ -18,6 +18,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 -  💻 I work using: 
  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-blue?logo=IntelliJIDEA&logoColor=FFCA28)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+ ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=plastic&logo=MySQL&logoColor=white)
  
 | <a href="https://github.com/clbigdata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clbigdata&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/clbigdata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clbigdata&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
