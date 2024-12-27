@@ -28,16 +28,16 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 #### Top Repositories
 
 <a href="https://github.com/chenlong1993/SolanaMobileApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=ShardingMigrate&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=SolanaMobileApp&theme=buefy" />
 </a>
 <a href="https://github.com/chenlong1993/ShieldTradeSys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=daiyu-chat&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=ShieldTradeSys&theme=buefy" />
 </a>
 
 <br />
 <br />
 <a href="https://github.com/chenlong1993/actix-web-order">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clbigdata&repo=daiyu-dfs&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=actix-web-order&theme=buefy" />
 </a>
 
 
