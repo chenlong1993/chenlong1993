@@ -19,6 +19,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20Idea-blue?logo=IntelliJIDEA&logoColor=FFCA28)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?style=plastic&logo=MySQL&logoColor=white)
+ ![Rust](https://img.shields.io/badge/-Rust-yellowgreen?style=plastic&logo=Rust&logoColor=FFCA29)
  
  Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/clbigdata/count.svg) visitor, Thank You!🎉🎉
  
