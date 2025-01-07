@@ -31,8 +31,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 <a href="https://github.com/chenlong1993/SolanaMobileApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=SolanaMobileApp&theme=buefy" />
 </a>
-<a href="https://github.com/chenlong1993/ShieldTradeSys">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=ShieldTradeSys&theme=buefy" />
+<a href="https://github.com/chenlong1993/shield_trade_sys">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenlong1993&repo=shield_trade_sys&theme=buefy" />
 </a>
 
 <br />
