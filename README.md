@@ -9,7 +9,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 - ❤️ I like to write something interesting in java
 
-- 💬 Ask me about anything use 163 email(`clbigdata@163.com`)
+- 💬 Ask me about anything use gmail email(`clbigdata1993@gmail.com`)
 
 
 - 🌱 I’m currently learning:
