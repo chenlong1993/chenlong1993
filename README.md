@@ -40,8 +40,5 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rogers3333&repo=actix-web-order&theme=buefy" />
 </a>
 
-  #### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=rogers3333/shield_trade_sys&type=Date)](https://star-history.com/#rogers3333/shield_trade_sys&Date)
 
 
