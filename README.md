@@ -33,7 +33,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 <a href="https://github.com/rogers3333/shield_trade_sys">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rogers3333&repo=shield_trade_sys&theme=buefy" />
 </a>
-
 <br />
 <br />
 <a href="https://github.com/rogers3333/actix-web-order">
